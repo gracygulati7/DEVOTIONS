@@ -15,6 +15,36 @@
 </div>
 
 <br><br>
+
+### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/gunn333>
+            <img src=https://avatars.githubusercontent.com/u/122155330?v=4 v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gunn Arora/>
+            <br />
+            <sub style="font-size:14px"><b>Gunn Arora</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/par-987>
+            <img src=https://avatars.githubusercontent.com/u/123724823?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Parth Batra/>
+            <br />
+            <sub style="font-size:14px"><b>Parth Batra</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Guranshsingh5911> 
+            <img src=https://avatars.githubusercontent.com/u/124994083?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Guransh Singh/>
+            <br />
+            <sub style="font-size:14px"><b>Guransh Singh</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
+
 ### Contact
 
 If you want to contact with me you can reach us at Linkedin : 
@@ -25,7 +55,7 @@ If you want to contact with me you can reach us at Linkedin :
 - [Parth Batra](https://www.linkedin.com/in/parth-batra-1aa633259/)
 
 
-### License
+### License ©
 
 This project is *free to use* and does not contains any license.
 
