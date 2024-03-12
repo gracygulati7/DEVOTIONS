@@ -17,7 +17,12 @@
 <br><br>
 ### Contact
 
-If you want to contact with me you can reach us at [Gracy Gulati](https://www.linkedin.com/in/gracy-gulati-956061292/) [Gunn Arora](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
+If you want to contact with me you can reach us at Linkedin : 
+
+- [Gracy Gulati](https://www.linkedin.com/in/gracy-gulati-956061292/)
+- [Gunn Arora](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
+- [Guransh Singh](https://www.linkedin.com/in/guransh-singh-336b4a254/)
+- [Parth Batra](https://www.linkedin.com/in/parth-batra-1aa633259/)
 
 
 ### License
