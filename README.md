@@ -47,7 +47,7 @@
 
 ### Contact
 
-If you want to contact with me you can reach us at Linkedin : 
+If you want to contact us, you can reach us at Linkedin : 
 
 - [Gracy Gulati](https://www.linkedin.com/in/gracy-gulati-956061292/)
 - [Gunn Arora](https://www.linkedin.com/in/gunn-arora-3a0a9b291/)
