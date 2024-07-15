@@ -28,17 +28,10 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/par-987>
-            <img src=https://avatars.githubusercontent.com/u/123724823?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Parth Batra/>
+        <a href=https://github.com/gracygulati7>
+            <img src=https://avatars.githubusercontent.com/u/124993594?s=400&v=4? width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gracy Gulati/>
             <br />
-            <sub style="font-size:14px"><b>Parth Batra</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Guranshsingh5911> 
-            <img src=https://avatars.githubusercontent.com/u/124994083?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Guransh Singh/>
-            <br />
-            <sub style="font-size:14px"><b>Guransh Singh</b></sub>
+            <sub style="font-size:14px"><b>Gracy Gulati</b></sub>
         </a>
     </td>
 </tr>
